@@ -1,0 +1,7 @@
+/*Managing growing projects with packages, crates, and modules*/
+use crate::garden::vegetables::Asparagus;
+pub mod garden;
+fn main() {
+    let plant = Asparagus {};
+    println!("I'm growning {:?}!", plant);
+}
