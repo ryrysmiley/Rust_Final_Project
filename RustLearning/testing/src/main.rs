@@ -49,6 +49,7 @@ fn main() {
     // 1. Set up any needed data or state.
     // 2. Call the code you want to test.
     // 3. Assert the results are what you expect.
-
+    // use [ignore] to not consider a test
+    // use [should_panic] to expect a test to fail
 }
 
