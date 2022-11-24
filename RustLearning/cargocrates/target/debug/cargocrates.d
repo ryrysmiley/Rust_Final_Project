@@ -1,0 +1,1 @@
+/Users/ryleyjue/Documents/CPSC_Courses/CPSC_354/FinalProject/RustLearning/cargocrates/target/debug/cargocrates: /Users/ryleyjue/Documents/CPSC_Courses/CPSC_354/FinalProject/RustLearning/cargocrates/src/main.rs
