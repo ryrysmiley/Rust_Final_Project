@@ -9,5 +9,5 @@ This is a simple Rust program that prints a crab saying "Hello World!".
 3. Open a terminal and navigate to the `hello-rust` directory.
 
 4. Run the following command to compile the program:
-cargo build
-cargo run
+```cargo build```
+```cargo run```
