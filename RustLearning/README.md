@@ -36,7 +36,7 @@
 #### Chapter 17: Object Oriented Programming Features of Rust
 ##### [oop](https://github.com/ryrysmiley/Rust_Final_Project/tree/main/RustLearning/oop)
 #### Chapter 18: Patterns and Matching
-##### [patternmating](https://github.com/ryrysmiley/Rust_Final_Project/tree/main/RustLearning/patternmatching)
+##### [patternmatching](https://github.com/ryrysmiley/Rust_Final_Project/tree/main/RustLearning/patternmatching)
 #### Chapter 19: Advanced Features
 ##### [advanced](https://github.com/ryrysmiley/Rust_Final_Project/tree/main/RustLearning/advanced)
 #### Chapter 20: Final Project: Building a Multithreaded Web Server

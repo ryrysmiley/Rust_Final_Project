@@ -1,0 +1,2 @@
+# enumspm
+This program will not run. There are syntax issues within the program due to comments and fragmented code. The purpose of this program is to demonstrate the use of enums and pattern matching in Rust. Use the comments to help you understand topic.
