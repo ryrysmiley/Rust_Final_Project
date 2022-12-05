@@ -1,7 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
-
 fn binary_search(list: &[i32], item: i32) -> Option<usize> {
     let mut low = 0;
     let mut high = list.len() - 1;
@@ -21,12 +17,12 @@ fn binary_search(list: &[i32], item: i32) -> Option<usize> {
     None
 }
 
-// fn main() {
-//     let x = plus_one(5);
+fn main() {
+    let x = plus_one(5);
 
-//     println!("The value of x is: {x}");
-// }
+    println!("The value of x is: {x}");
+}
 
-// fn plus_one(x: i32) -> i32 {
-//     x + 1; //this is a statement but without a semicolon it as an expression
-// }
+fn plus_one(x: i32) -> i32 {
+    x + 1 
+}
