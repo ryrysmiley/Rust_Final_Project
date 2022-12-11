@@ -13,7 +13,7 @@ The game of life is a cellular automaton. It is a zero player game, meaning that
 5. Run "cargo run"
 6. Enter the desired game mode
 7. Enter the desired grid size
-# 2 Output
+# Expected Output
 1. The program will print the results in the terminal
 2. The program will write the results in a file called "output.txt"
 # Game Mode Descriptions
