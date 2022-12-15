@@ -3,5 +3,5 @@
 mod gameoflife;
 
 fn main() {
-    gameoflife::start_game();
+    gameoflife::full_game();
 }
