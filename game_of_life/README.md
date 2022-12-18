@@ -11,7 +11,7 @@ The game of life is a cellular automaton. It is a zero player game, meaning that
 3. Run "cargo install rand" to install the rand crate
 4. Run "cargo build"
 5. Run "cargo run"
-6. Follow the instructions in the terminal
+6. Follow the instructions in the terminal (run terminal in full screen for best play experience)
 
 ## Expected Output
 1. The program will print the results in the terminal.
@@ -26,5 +26,7 @@ The mirror game mode is the same as the classic game mode, except that the walls
 The donut game mode is the same as the classic game mode, except that the walls of the grid are donuts. This means that cells on the edge of the are connected to cells on the opposite edge of the grid.
 
 ## Error Handling
-All invalid inputs are handled by the program. If the user enters an invalid input, the program will just continue not breaking the program.
-The program has a limit to how many generations it will run. If the user enters a number greater than the limit, the program will just run the maximum number of generations (999).
+All invalid inputs are handled by the program. If the user enters an invalid input, the program will just continue not breaking the program. In the cases of entering gamemode, height, and width, the user will be notified of the restrictions when the rules are breached. The program has a limit to how many generations it will run. If the user enters a number greater than the limit, the program will just run the maximum number of generations (999).
+Gamemode limit: 1-3
+Height limit: 1-50 
+Width limit: 1-50 
